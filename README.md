@@ -30,8 +30,11 @@ On most boards wiring would look like this:
 OLED Pins        ESP-8266 Pins
 ---------        -------------
    GND    ----->   GND
+\
    VCC    ----->   3.3V
+\
    SCL    ----->   D1 (GPIO 5)
+\
    SDA    ----->   D2 (GPIO 4)
 
 Hook up to the board to power and your ready to go
