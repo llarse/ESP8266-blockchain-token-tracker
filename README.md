@@ -1,5 +1,5 @@
 
-# Project Title
+# ESP-8266 Blockchain token tracker
 
 ESP-8266 script that queries coingeckos API every 5 minutes via HTTPS to fetch the current market price and market cap for a token. This is preset to display the value of $KNDX but can be reconfigured as needed. The display used is a 0.91" OLED 128x32. 
 
